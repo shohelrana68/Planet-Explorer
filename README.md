@@ -1,3 +1,4 @@
+# Computer_Graphics
 # 🌌 Planet Explorer 🚀
 
 
@@ -11,13 +12,6 @@
 ![image](https://github.com/user-attachments/assets/417c3a37-675d-48f2-91c4-521cdcc28136)
 
 
-
-
-# 🌌 Planet Explorer 🚀
-
-![Planet Explorer Home Screen](https://github.com/user-attachments/assets/639b251d-1e8d-45f2-91c4-521cdcc28136)
-
-![Planet Explorer 3D View](https://github.com/user-attachments/assets/417c3a37-675d-48f2-91c4-521cdcc28136)
 
 **Planet Explorer** is an interactive 3D application developed using Python, Pygame, and PyOpenGL. It provides an engaging interface where users can select planets and explore their 3D models with mouse-controlled rotation and zoom functionality.
 
