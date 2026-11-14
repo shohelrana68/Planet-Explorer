@@ -1,5 +1,5 @@
 # Computer_Graphics
-# 🌌 Planet Explorer 🚀
+# 🌌 3D Planet Explorer - Interactive OpenGL Solar System Simulation 🚀
 
 
 
